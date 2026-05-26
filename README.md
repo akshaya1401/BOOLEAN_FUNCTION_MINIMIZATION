@@ -1,4 +1,4 @@
-<img width="1446" height="850" alt="Screenshot 2026-05-26 084125" src="https://github.com/user-attachments/assets/95eb63fa-3e69-4c1d-aa73-087da2ad6035" /><img width="1446" height="850" alt="image" src="https://github.com/user-attachments/assets/7d5f0fbd-0c5b-445e-bca2-e32e71529699" /># BOOLEAN_FUNCTION_MINIMIZATION
+
 ## Name: Santhanalakshmi S
 ## Reg No: 212225040376
 
